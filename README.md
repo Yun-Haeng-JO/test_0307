@@ -26,6 +26,8 @@
 
   
    2. 두 번째 항목의 또 다른 서브 항목
+  
+
 3. 세 번째 항목
 
 
@@ -38,9 +40,12 @@
 
 
 
-4번
+4번 링크 하는 법 
 ``` bash
-adsfasdfasdfasdfasdfadfa
+bash 가나다 abcdefg 
 ```
 
 5번
+``` LaTeX
+E=mc^2 이것은 수식 입니다
+```
